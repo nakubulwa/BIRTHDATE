@@ -1,5 +1,5 @@
-#THIS WORK WAS DONE BY OKITE WALTER 16/U/10905/PS
-#BSC. ELECTRICAL ENGINEERING
+#NAKUBULWA SHARON
+16/U/845 BIOMEDICAL ENGINNERING
 import datetime
 years =float(input('Enter your age:'))
 month=int(input('Enter month of birth:'))
